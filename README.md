@@ -27,7 +27,7 @@ Soy una Data Analyst Junior con experiencia en Python, SQL y Excel. Transformo d
 ---
 
 ## 📫 Contacto
-- **Email**: erika@example.com  
+- **Email**: erikkam28@gmail.com
 - **LinkedIn**: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/erika-mendoza-del-angel-ab3099292)  
 - **GitHub**: [github.com/tuusuario](https://github.com/erikkam28-cpu)
 
